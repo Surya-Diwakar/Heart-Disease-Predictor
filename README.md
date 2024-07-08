@@ -3,7 +3,7 @@
 This repository contains a Jupyter Notebook that uses various Python-based Machine Learning and Data Science libraries to build a model capable of predicting whether someone has heart disease based on their medical attributes.
 
 ## Data
-The dataset used in this project is from the UCI Heart Disease Data available on Kaggle.
+The dataset used in this project is from the UCI Heart Disease Data available on [Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data).
 
 ## Features
 The dataset contains the following features:
